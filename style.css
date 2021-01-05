@@ -1,0 +1,154 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+body p{
+    font-size: 16px;
+    color: #3E3E3E;
+}
+/* Nav Start */
+
+ul{
+    width: auto;
+    margin-left: 60%;
+    margin-top: 8px;
+    margin-right: 10%;
+
+
+}
+li{
+    display: inline-block;
+    padding: 15px 20px;
+
+
+}
+.nav-ancor{
+    text-align: center;
+    color:#3C3C3C;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.nav-ancor:hover{
+    color: #FF8367;
+    transition: 0.5s;
+}
+.link-button{
+    color: white;
+    margin-top: 200px;
+    background-image: linear-gradient(#FF8063, #F46060);
+    font-weight: 500;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 20px 35px;
+    border-radius: 5px;
+}
+#up-button{
+    margin-bottom: 60px;
+}
+
+/*first block css*/
+#top-banner{
+    background-color: white;
+}
+.half-width{
+    width: 27%;
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 200px;
+    float: left;
+    
+}
+#first-block{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    margin-bottom: 5px;
+    line-height: 1.0;
+}
+#blue{
+    color: #363958;
+    font-weight: 500;
+}
+#orrange{
+    color: #FF8367;
+    font-weight: 500;
+
+}
+/*image block css*/
+.half-weidth2{
+    margin-top: -50px;
+    width: 40%;
+    display: inline-block;
+    }
+.half-weidth2 img{
+    width: 100%;
+}
+.half-weidth3{
+    margin-top: -150px;
+    margin-right: 200px;
+    width: 40%;
+    float: left;
+}
+.half-weidth3 img{
+    width: 100%;
+}
+#about{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    margin-bottom: 5px;
+}
+.half-width4{
+    width: 20%;
+    padding-left: 7%;
+    margin-right: 200px;
+    display: inline-block;
+    
+}
+.link-button2{
+    color: white;
+    margin-top: 200px;
+    background-image: linear-gradient(180deg,#FF8063, #D7F460);
+    font-weight: 500;
+    text-decoration: none;
+    background-color: orangered;
+    padding: 20px 35px;
+    border-radius: 5px;
+}
+.latest-project{
+    background-color: #f8f9fc;
+    margin-top: 300px;
+    padding: 150px;
+}
+.project-box{
+    background-color: white;
+    width: 370px;
+    height: 370px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 4%;
+    box-shadow: 10px 10px 40px gray;
+}
+.project-box img{
+    margin: 5%;
+    width: 90%;
+    margin-bottom: 3px;
+    border-radius: 10px;
+}
+.project-box h1{
+    padding-left:5% ;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 900;
+}
+.project-box p{
+    padding-left: 5%;
+    text-align: left;
+}
+
+#project-header{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+
