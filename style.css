@@ -293,11 +293,12 @@ li{
     color: #696871;
 }
 .footer h1{
-    font-family: 'Roboto', sans-serif;
-    color: #363958;
     font-size: 36px;
     margin-top: -10px;
     font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    
 }
 .img{
     margin-top: -15px;
